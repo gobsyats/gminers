@@ -1,0 +1,11 @@
+Description of Files & Folders:
+-------------------------------------------------------------------------------------------------------------
+1. advance_queries - Collection of SQL Queries used for building and operating the database.
+
+2. CS660_Govind_Yatnalkar_Crawler.py - Python Script for running the crawler and saving values in database.
+
+3. Results_Document.pdf - A pdf which provides the tables structure and results (screenshots) of the project.
+
+4. urls.txt - A text document which includes all the links or urls used for crawling. These can also be viewed in the "urls" table in MySQL
+
+-------------------------------------------------------------------------------------------------------------
